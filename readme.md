@@ -6,7 +6,7 @@ A redux starter kit I created for myself to set the redux development env in a s
 
 First `npm install` to grab all the necessary dependencies.
 
-Then run `npm start` and open <localhost:7770> in your browser.
+Then run `npm start` and open <localhost:4994> in your browser.
 
 ## Production Build
 
